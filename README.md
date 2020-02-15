@@ -4,4 +4,6 @@ Confirmed_cases与groups分别是两个已经整理好的数据格式，都包�
 
 data_clean的notebook中包含了部分数据处理和模型搭建的工作。
 
+nCOv.R文件里是用R语言进行的数据分析和一些统计学校验
+
 欢迎大家积极参与：）
