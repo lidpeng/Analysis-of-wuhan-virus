@@ -4,7 +4,7 @@ Confirmed_cases与groups分别是两个已经整理好的数据格式，都包�
 
 data_clean的笔记本中包含了部分数据处理和模型构造的工作。
 
-data_clean_new是新添加的，用的new_data为1月24日至2月15日的确诊/治愈人数。
+data_clean_new是新添加的，用的new_data为1月24日至2月12日的确诊/治愈人数。
 
 nCOv.R文件里是用R语言进行的数据分析和一些统计学校验 #本文件由罗雨潇完成
 
